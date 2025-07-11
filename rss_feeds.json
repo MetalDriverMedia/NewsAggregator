@@ -1,0 +1,78 @@
+{
+  "Weird News": [
+    { "name": "HuffPost Odd News", "url": "https://www.huffpost.com/section/weird-news/feed" },
+    { "name": "UPI Odd News", "url": "https://rss.upi.com/news/odd_news.rss" },
+    { "name": "Oddity Central", "url": "https://www.odditycentral.com/feed" },
+    { "name": "Sky News Strange", "url": "https://feeds.skynews.com/feeds/rss/strange.xml" },
+    { "name": "The Independent Odd News", "url": "https://www.independent.co.uk/news/weird-news/rss" },
+    { "name": "Atlas Obscura", "url": "https://www.atlasobscura.com/feeds/latest" }
+  ],
+  "Science": [
+    { "name": "NY Times Science", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" },
+    { "name": "BBC Science", "url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" },
+    { "name": "Science Daily", "url": "https://www.sciencedaily.com/rss/all.xml" },
+    { "name": "Popular Science", "url": "https://www.popsci.com/rss.xml" },
+    { "name": "Nature News", "url": "https://www.nature.com/nature.rss" },
+    { "name": "Smithsonian Magazine", "url": "https://www.smithsonianmag.com/rss/latest_articles/" },
+    { "name": "Live Science", "url": "https://www.livescience.com/feeds/all" },
+    { "name": "The Guardian Science", "url": "https://www.theguardian.com/science/rss" }
+  ],
+  "Sports": [
+    { "name": "ESPN Sports", "url": "https://www.espn.com/espn/rss/news" },
+    { "name": "CBS Sports", "url": "https://www.cbssports.com/rss/headlines/" },
+    { "name": "NBC Sports", "url": "https://www.nbcsports.com/index.atom" },
+    { "name": "Yahoo Sports", "url": "https://sports.yahoo.com/rss/" },
+    { "name": "Fox Sports", "url": "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&aggregateId=7f83e8ca-6701-5ea0-96ee-072636b67336" }
+  ],
+  "Entertainment": [
+    { "name": "Blabbermouth", "url": "https://blabbermouth.net/feed/" },
+    { "name": "Metal Injection", "url": "https://metalinjection.net/feed" },
+    { "name": "Loudwire", "url": "https://loudwire.com/feed/" },
+    { "name": "Entertainment Weekly", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/06e092d0-4dff-468a-93db-8d6a995730b4" },
+    { "name": "Variety", "url": "https://variety.com/feed/" },
+    { "name": "Rolling Stone Music", "url": "https://www.rollingstone.com/music/music-news/feed/" },
+    { "name": "Film News (IndieWire)", "url": "https://www.indiewire.com/feed/" },
+    { "name": "Billboard Music", "url": "https://www.billboard.com/feed/" },
+    { "name": "Collider", "url": "https://collider.com/feed/" }
+  ],
+  "Technology": [
+    { "name": "TechCrunch", "url": "https://techcrunch.com/feed/" },
+    { "name": "Wired", "url": "https://www.wired.com/feed/" },
+    { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml" },
+    { "name": "Ars Technica", "url": "https://arstechnica.com/feed/" },
+    { "name": "Mashable", "url": "https://mashable.com/feed/" },
+    { "name": "CNET News", "url": "https://www.cnet.com/rss/news/" },
+    { "name": "VentureBeat", "url": "https://venturebeat.com/feed/" },
+    { "name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml" }
+  ],
+  "Gaming": [
+    { "name": "IGN", "url": "https://www.ign.com/rss/articles/feed" },
+    { "name": "GameSpot", "url": "https://www.gamespot.com/feeds/mashup/" },
+    { "name": "Kotaku", "url": "https://kotaku.com/rss" },
+    { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml" },
+    { "name": "Eurogamer", "url": "https://www.eurogamer.net/?format=rss" },
+    { "name": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/feed" },
+    { "name": "GamesRadar+", "url": "https://www.gamesradar.com/feeds.xml" }
+  ],
+  "Health": [
+    { "name": "Health.com", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/adf185b2-ff7d-4fe3-a978-b59ff8528c53" },
+    { "name": "Mayo Clinic", "url": "https://newsnetwork.mayoclinic.org/feed/" },
+    { "name": "Mind Body Green", "url": "https://www.mindbodygreen.com/rss/featured.xml" },
+    { "name": "The Lancet", "url": "https://www.thelancet.com/rssfeed/lancet_current.xml" }
+  ],
+  "Unusual Food News": [
+    { "name": "Eater", "url": "https://www.eater.com/rss/index.xml" },
+    { "name": "Serious Eats", "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/ad57d421-0ff5-41e7-a5da-f2167b6d7f7a" },
+    { "name": "Tasting Table", "url": "https://www.tastingtable.com/feed/" },
+    { "name": "Delish", "url": "https://www.delish.com/rss/all.xml" },
+    { "name": "Bon Appétit", "url": "https://www.bonappetit.com/feed/rss" },
+    { "name": "The Kitchn", "url": "https://www.thekitchn.com/main.rss" }
+  ],
+  "Humor": [
+    { "name": "Cracked", "url": "https://www.cracked.com/crackedrss/allposts.xml" },
+    { "name": "Funny or Die", "url": "https://www.funnyordie.com/feed" },
+    { "name": "Bored Panda", "url": "https://www.boredpanda.com/feed/" },
+    { "name": "The Poke", "url": "https://www.thepoke.com/feed/" },
+    { "name": "The Chive", "url": "https://thechive.com/feed/" }
+  ]
+}

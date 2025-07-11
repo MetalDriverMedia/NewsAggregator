@@ -1,0 +1,35 @@
+{
+    "Style": {
+        "AP-style": "Clean, factual delivery \u2014 just the facts, no flair.",
+        "Chaotic satire": "Unpredictable, exaggerated, and full of energy. A performance-heavy script.",
+        "Deadpan delivery": "Flat tone with no emotional cues \u2014 absurdity does the heavy lifting.",
+        "Late-night monologue": "Reads like a comedy show opener \u2014 rhythm, timing, and punchlines.",
+        "Bullet-point snark": "List-like structure with savage bite-sized commentary.",
+        "Storytelling voiceover": "Narrative style, great for VOs or documentary-style scripts.",
+        "Lo-fi chill": "Relaxed, mellow, minimal pacing and structure.",
+        "Shitpost format": "Maximum irony, meme culture, deliberate nonsense.",
+        "Casual explainer": "Friendly and podcast-like \u2014 like you\u2019re just explaining something interesting."
+    },
+    "Tone": {
+        "Neutral": "Objective and balanced \u2014 no bias or emotion.",
+        "Sarcastic": "Says what it means by saying the opposite. Dry and cutting.",
+        "Snarky": "Witty, smug, and sharply critical \u2014 but still fun.",
+        "Goofy": "Over-the-top and ridiculous \u2014 full comedic energy.",
+        "Melancholy": "Thoughtful and a little sad. Subtly poetic.",
+        "Excited/Upbeat": "High energy and cheerful \u2014 the hype train is real.",
+        "Deadpan": "No emotional change \u2014 flat and emotionless delivery for maximum contrast.",
+        "Mocking": "Intentionally ridicules the subject \u2014 often exaggerated.",
+        "Paranoid conspiracy": "Wild-eyed energy with a tinfoil hat tone \u2014 but always tongue-in-cheek.",
+        "Narrative dramatic": "Over-the-top, cinematic storytelling \u2014 think voiceover trailers.",
+        "Millennial chaos": "Self-aware, meme-saturated, emotionally chaotic."
+    },
+    "Length": {
+        "Short": "2\u20133 sentences (~15s). Great for intros, transitions, or punchlines.",
+        "Medium": "1\u20132 paragraphs (~30s). Balanced for live segment reads.",
+        "Long": "3+ paragraphs (~45s\u20131min). Ideal for full stories or main events.",
+        "Micro-Recap": "A single sentence or meme-tier punchline (~5s).",
+        "Beat Breakdown": "3\u20134 punchy bullet-like lines (~20\u201330s).",
+        "Scripted Segment": "Full-feature script (~1\u20132 min). For centerpiece or skit-style content.",
+        "Visual Voiceover": "Designed to sync with b-roll, visuals, or OBS scenes."
+    }
+}

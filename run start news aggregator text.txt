@@ -1,0 +1,5 @@
+python start_news_aggregator.py
+
+G:
+
+cd NEWS AGGREGATOR STUFF

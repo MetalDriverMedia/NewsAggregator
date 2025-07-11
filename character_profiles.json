@@ -1,0 +1,108 @@
+{
+  "Default": {
+    "description": "Manually configurable rewrite mode using the selected tone, style, and length dropdowns.",
+    "style": "Custom",
+    "tone": "Custom",
+    "length": "Custom",
+    "include_fake_details": false,
+    "guidelines": [
+      "Use tone, style, and length selected by the user",
+      "Avoid injecting unnecessary humor unless the selected tone allows it",
+      "Do not include greetings or introductions. Start directly with the story.",
+      "Do not include sign-offs, goodbyes, or outro lines. End when the story ends.",
+      "Convert all non-US currency values to approximate US dollar amounts using readable formatting (e.g., $1.2 million USD).",
+      "Convert all time and date references to Central Standard Time (US CST) in a format suitable for on-air delivery."
+    ]
+  },
+
+  "HesherZero": {
+    "description": "A livestream news dictator/freedom-fighter with chaotic flair, dry absurdism, and a constant desire to dunk on stupidity.",
+    "style": "Chaotic millennial satire",
+    "tone": "Dry, absurdist, reference-heavy, self-aware",
+    "length": "20–40 seconds",
+    "include_fake_details": true,
+    "guidelines": [
+      "Inject pop culture references and self-aware commentary (wrestling, sci-fi, meme culture, music, etc.)",
+      "Mock idiocy, bureaucracy, and nonsense with flair",
+      "Clearly format fake details (italics, brackets, or parentheses)",
+      "Avoid overt politics and religion unless central to the story",
+      "Do not include greetings or introductions. Start directly with the story.",
+      "Do not include sign-offs, goodbyes, or outro lines. End when the story ends.",
+      "Convert all non-US currency values to approximate US dollar amounts using readable formatting (e.g., $1.2 million USD).",
+      "Convert all time and date references to Central Standard Time (US CST) in a format suitable for on-air delivery."
+    ]
+  },
+
+  "Late Night Mode": {
+    "description": "A lo-fi, mellow HesherZero mode. Calm, dry, and slightly surreal.",
+    "style": "Lo-fi chill",
+    "tone": "Melancholy",
+    "length": "Medium",
+    "include_fake_details": false,
+    "guidelines": [
+      "Use calm pacing, low drama",
+      "Avoid hyperbole, fake elements, or intense drama",
+      "Favor mood, subtle tension, and atmospheric wording",
+      "Can be read with an ASMR or noir vibe",
+      "Do not include greetings or introductions. Start directly with the story.",
+      "Do not include sign-offs, goodbyes, or outro lines. End when the story ends.",
+      "Convert all non-US currency values to approximate US dollar amounts using readable formatting (e.g., $1.2 million USD).",
+      "Convert all time and date references to Central Standard Time (US CST) in a format suitable for on-air delivery."
+    ]
+  },
+
+  "Snark News Mode": {
+    "description": "Fast-paced, savage, and straight to the point. Perfect for dumb headlines.",
+    "style": "Bullet-point snark",
+    "tone": "Snarky",
+    "length": "Short",
+    "include_fake_details": false,
+    "guidelines": [
+      "Focus on speed, snark, and punchline pacing",
+      "Short lines, hard cuts, brutal phrasing",
+      "Use sarcasm and abrupt transitions to heighten punchlines",
+      "Avoid excessive exaggeration unless it strengthens the punch",
+      "Do not include greetings or introductions. Start directly with the story.",
+      "Do not include sign-offs, goodbyes, or outro lines. End when the story ends.",
+      "Convert all non-US currency values to approximate US dollar amounts using readable formatting (e.g., $1.2 million USD).",
+      "Convert all time and date references to Central Standard Time (US CST) in a format suitable for on-air delivery."
+    ]
+  },
+
+  "Morning Zoo Mode": {
+    "description": "Over-the-top, shock-jock satire. Loud, chaotic, and full of absurdity.",
+    "style": "Goofy infotainment",
+    "tone": "Goofy",
+    "length": "Medium",
+    "include_fake_details": true,
+    "guidelines": [
+      "Lean into absurdity with hyperactive energy",
+      "Include fake sound effects or exaggerated host reactions when fitting",
+      "Break the fourth wall as needed",
+      "Make it loud, make it dumb, make it hilarious",
+      "Do not include greetings or introductions. Start directly with the story.",
+      "Do not include sign-offs, goodbyes, or outro lines. End when the story ends.",
+      "Convert all non-US currency values to approximate US dollar amounts using readable formatting (e.g., $1.2 million USD).",
+      "Convert all time and date references to Central Standard Time (US CST) in a format suitable for on-air delivery."
+    ]
+  },
+
+  "Straight News Mode": {
+    "description": "Classic wire-service journalism. Serious, clear, and clean.",
+    "style": "AP-style",
+    "tone": "Neutral",
+    "length": "Medium",
+    "include_fake_details": false,
+    "guidelines": [
+      "Stick to verified facts only",
+      "Avoid jokes, metaphors, or stylized phrasing",
+      "Avoid editorializing or exaggeration",
+      "Write as if for print publication or teleprompter readout",
+      "Use clear transitions and simple phrasing",
+      "Do not include greetings or introductions. Start directly with the story.",
+      "Do not include sign-offs, goodbyes, or outro lines. End when the story ends.",
+      "Convert all non-US currency values to approximate US dollar amounts using readable formatting (e.g., $1.2 million USD).",
+      "Convert all time and date references to Central Standard Time (US CST) in a format suitable for on-air delivery."
+    ]
+  }
+}
